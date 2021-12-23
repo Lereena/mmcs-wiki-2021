@@ -4,7 +4,7 @@
 
 О чём здесь можно узнать:
 
-- [Непрерывная математика](Data/continious-math.md)
+- [Алгебра и геометрия](Data/algebra-geometry.md)
 
 - [Проектная деятельность](Data/projects.md)
 
