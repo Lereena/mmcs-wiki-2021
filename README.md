@@ -4,5 +4,5 @@
 
 О чём здесь можно узнать:
 
-- [Непрерывная математика](Data/continious-math.md)
+- [Яков Ерусалимский](Data/Erusalimskii.md)
 
