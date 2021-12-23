@@ -5,5 +5,5 @@
 О чём здесь можно узнать:
 
 - [Непрерывная математика](Data/continious-math.md)
-- [Непрерывная математика](Data/pascalabcnet.md)
+- [PascalABC.NET](Data/pascalabcnet.md)
 
