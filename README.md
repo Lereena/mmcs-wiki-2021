@@ -5,4 +5,4 @@
 О чём здесь можно узнать:
 
 - [Непрерывная математика](Data/continious-math.md)
-
+- <a href="https://github.com/johtai/mmcs-wiki-2021/blob/main/README.md">PascalABC.Net<a/>
