@@ -5,4 +5,13 @@
 О чём здесь можно узнать:
 
 - [Непрерывная математика](Data/continious-math.md)
-- <a href="https://github.com/johtai/mmcs-wiki-2021/blob/PascalABC/PascalABC.md">PascalABC.NET</a>
+
+- [Проектная деятельность](Data/projects.md)
+
+- [ФИИТ](Data/FIITarticle.txt)
+
+- [Социальные сети , которые используют мехматовцы](Data/social-networks.md)
+
+- [Основы программирования](Data/bases-of-programming.md)
+
+- [Воскресная компьютерная школа мехмата](Data/sunschool-comp.md)
