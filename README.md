@@ -15,3 +15,5 @@
 - [Основы программирования](Data/bases-of-programming.md)
 
 - [Воскресная компьютерная школа мехмата](Data/sunschool-comp.md)
+
+- [Дискретная математика](Data/Discrete-math.md)
