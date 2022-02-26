@@ -5,6 +5,7 @@
 О чём здесь можно узнать:
 
 - [Непрерывная математика](Data/continious-math.md)
+- [PascalABC.NET](Data/pascalabcnet.md)
 
 - [Проектная деятельность](Data/projects.md)
 
